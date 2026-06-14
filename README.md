@@ -3,16 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Cube Word — Privacy Policy</title>
-<style>
-  body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-         max-width: 760px; margin: 2rem auto; padding: 0 1rem; line-height: 1.55;
-         color: #1c1c1c; }
-  h1 { font-size: 1.7rem; }
-  h2 { font-size: 1.2rem; margin-top: 1.8rem; }
-  code { background: #f0f0f0; padding: 0 .25em; border-radius: 3px; }
-  footer { margin-top: 2.5rem; font-size: .9rem; color: #666; }
-</style>
+
 </head>
 <body>
 <h1>Privacy Policy for Cube Word</h1>
